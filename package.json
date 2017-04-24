@@ -1,0 +1,23 @@
+{
+  "name": "kodilla-javascript",
+  "version": "1.0.0",
+  "description": "\"javascript second project\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "kodilla-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcbloc/Pierwsze-kroki-JavaScript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcbloc/Pierwsze-kroki-JavaScript/issues"
+  },
+  "homepage": "https://github.com/marcbloc/Pierwsze-kroki-JavaScript#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0"
+  }
+}
